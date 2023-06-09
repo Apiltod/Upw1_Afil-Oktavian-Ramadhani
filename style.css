@@ -1,0 +1,23 @@
+* {
+  text-align: center;
+}
+
+#hero,
+#pendidikan {
+  /* color: #ffff; */
+  background-color: #dcdcdc;
+  padding-top: 5rem;
+}
+#hero .jumbotron img {
+  border-radius: 20px;
+  width: 250px;
+}
+#keahlian,
+#project {
+  padding-top: 5rem;
+}
+#kontak {
+  padding-top: 5rem;
+  background-color: #dcdcdc;
+  /* color: #ffff; */
+}
